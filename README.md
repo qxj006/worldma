@@ -8,3 +8,13 @@ World码是一款微信扫码群发软件，由程序开发者hong基于微信�
 # “world码”能干什么
 
 ![world ma](https://github.com/shuicheng/worldma/raw/master/img/6.PNG)  
+
+# 怎么运行“world码”程序
+
+1.安装Java JDK，并设置环境变量
+2.安装MySQL  用户名：root  密码：root
+3.创建wxhong数据库，并导入wxhong.sql文件
+4.打开：cmd  执行：java -jar wxhong.jar
+5.浏览器：http://127.0.0.1:8091/
+
+# “world码”联系方式
